@@ -1,0 +1,31 @@
+{
+  "name": "react-tsx-starter",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@popperjs/core": "2.11.7",
+    "@syncfusion/ej2-base": "26.2.4",
+    "@syncfusion/ej2-data": "26.2.4",
+    "@syncfusion/ej2-grids": "^26.2.4",
+    "@syncfusion/ej2-react-calendars": "26.2.4",
+    "@syncfusion/ej2-react-dropdowns": "26.2.4",
+    "@syncfusion/ej2-react-grids": "26.2.4",
+    "@syncfusion/ej2-react-inputs": "26.2.4",
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.4",
+    "bootstrap": "5.2.3",
+    "jquery": "3.6.4",
+    "popper.js": "1.16.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "latest"
+  }
+}
